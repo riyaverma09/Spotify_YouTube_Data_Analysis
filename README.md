@@ -115,7 +115,7 @@ git clone: https://github.com/riyaverma/Spotify_YouTube_Data_Analysis.git
 
 2.Open the Jupyter Notebook:
 
-jupyter notebook :!(spotify-youtube-insights.ipynb)
+jupyter notebook :[!(spotify-youtube-insights.ipynb)](https://github.com/riyaverma09/Spotify_YouTube_Data_Analysis/blob/main/spotify-youtube-insights.ipynb)
 
 3.Run the notebook cells to explore the analysis and visualization
 
