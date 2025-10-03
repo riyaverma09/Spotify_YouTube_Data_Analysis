@@ -1,6 +1,7 @@
 # Spotify_YouTube_Data_Analysis
 
 🎵 Spotify & YouTube Insights Analysis
+
 📌 Overview
 
 Music streaming platforms like Spotify and YouTube have transformed the way people consume music worldwide.
@@ -109,12 +110,12 @@ To answer these questions, I followed a systematic process:
 
 1.Clone the repository:
 
-git clone https://github.com/riyaverma/Spotify_YouTube_Data_Analysis.git
+git clone: https://github.com/riyaverma/Spotify_YouTube_Data_Analysis.git
 
 
 2.Open the Jupyter Notebook:
 
-jupyter notebook :('spotify-youtube-insights.ipynb')
+jupyter notebook :spotify-youtube-insights.ipynb
 
 3.Run the notebook cells to explore the analysis and visualization
 
